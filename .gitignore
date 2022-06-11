@@ -1,3 +1,6 @@
+# build directory
+gym_tracking_app/build/*
+
 # all dart stuff
 # Miscellaneous
 *.class

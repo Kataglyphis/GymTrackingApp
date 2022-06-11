@@ -15,6 +15,8 @@
 <h4 align="center"> Gym tracking app <a href="https://jotrockenmitlocken.de" target="_blank"></a>.</h4>
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=BX9AVVES2P9LN)
+[![Twitter](https://img.shields.io/twitter/follow/Cataglyphis_?style=social)](https://twitter.com/Cataglyphis_)
+[![Twitter](https://img.shields.io/github/languages/top/Kataglyphis/GymTrackingApp)](https://jotrockenmitlocken.de/)
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -124,7 +126,16 @@ Project Link: [https://github.com/Kataglyphis/GraphicsEngineVulkan](https://gith
 
 ## Literature 
 
-Some very helpful literature, tutorials, etc. 
+Some very helpful literature, tutorials, etc.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -141,15 +152,3 @@ Some very helpful literature, tutorials, etc.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jonas-heinle-0b2a301a0/
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
